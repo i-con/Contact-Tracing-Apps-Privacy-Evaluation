@@ -1,1 +1,1 @@
-# Contact-Tracking-Apps-Privacy-Evaluation
+# Contact Tracing Apps Privacy Evaluation
